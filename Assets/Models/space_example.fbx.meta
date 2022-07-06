@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: ef96a9a7dbcc8df4e89f2e74ea85b1d4
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -5572541973309549404
+    second: Empty|EmptyAction
+  - first:
+      74: -4979692086029456214
+    second: Empty|Icosphere.001Action
+  - first:
+      74: -1499250040566162792
+    second: Empty|Mach Ten.001Action
+  - first:
+      74: -2593256051332154763
+    second: Empty|Mach Ten.001Action.001
+  - first:
+      74: -7943875107422477750
+    second: Empty|Mach TenAction
+  - first:
+      74: -4592422186850427439
+    second: Empty|Mach TenAction.001
+  - first:
+      74: 5659283214944919559
+    second: Empty|Mach TenAction.002
+  - first:
+      74: 2206322126311565001
+    second: Empty|Mach TenAction.003
+  - first:
+      74: -4462092546426486963
+    second: Empty|Mach TenAction.004
+  - first:
+      74: 5898716443240982439
+    second: Mach Ten|EmptyAction
+  - first:
+      74: -5838053649942622689
+    second: Mach Ten|Icosphere.001Action
+  - first:
+      74: 4819700924833388901
+    second: Mach Ten|Mach Ten.001Action
+  - first:
+      74: -5702688201754964449
+    second: Mach Ten|Mach Ten.001Action.001
+  - first:
+      74: -4281334799583172145
+    second: Mach Ten|Mach TenAction
+  - first:
+      74: 1913031528239232733
+    second: Mach Ten|Mach TenAction.001
+  - first:
+      74: 3307746446210027545
+    second: Mach Ten|Mach TenAction.002
+  - first:
+      74: 2320938886036264889
+    second: Mach Ten|Mach TenAction.003
+  - first:
+      74: 7188545359638965552
+    second: Mach Ten|Mach TenAction.004
+  - first:
+      74: 311060660282206705
+    second: Mach Ten.001|EmptyAction
+  - first:
+      74: -2754797185929797099
+    second: Mach Ten.001|Icosphere.001Action
+  - first:
+      74: -4693459387569334134
+    second: Mach Ten.001|Mach Ten.001Action
+  - first:
+      74: -1148751338953904686
+    second: Mach Ten.001|Mach Ten.001Action.001
+  - first:
+      74: -7700808302582260377
+    second: Mach Ten.001|Mach TenAction
+  - first:
+      74: 605807067858068318
+    second: Mach Ten.001|Mach TenAction.001
+  - first:
+      74: 2710072917825029085
+    second: Mach Ten.001|Mach TenAction.002
+  - first:
+      74: -301233658349150082
+    second: Mach Ten.001|Mach TenAction.003
+  - first:
+      74: -4309953647522453678
+    second: Mach Ten.001|Mach TenAction.004
+  - first:
+      74: 2021144801668358185
+    second: Icosphere.001|EmptyAction
+  - first:
+      74: 4075965102321130359
+    second: Icosphere.001|Icosphere.001Action
+  - first:
+      74: 4808294482936829336
+    second: Icosphere.001|Mach Ten.001Action
+  - first:
+      74: -425193250250420618
+    second: Icosphere.001|Mach Ten.001Action.001
+  - first:
+      74: 5089011119743737833
+    second: Icosphere.001|Mach TenAction
+  - first:
+      74: 4482299817096893463
+    second: Icosphere.001|Mach TenAction.001
+  - first:
+      74: -4025358088582570621
+    second: Icosphere.001|Mach TenAction.002
+  - first:
+      74: 7970562394790528381
+    second: Icosphere.001|Mach TenAction.003
+  - first:
+      74: 6809475503521721096
+    second: Icosphere.001|Mach TenAction.004
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
